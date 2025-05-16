@@ -187,7 +187,7 @@ A curated list of Meachine learning Security & Privacy papers published in secur
 
 1. **TextShield: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation**. USENIX Security 2020. `Defense in preprossing` [[pdf](https://www.usenix.org/system/files/sec20-li-jinfeng.pdf)] [X]
 
-2. **Bad Characters: Imperceptible NLP Attacks**. IEEE S&P 2022. `Use unicode to conduct human imperceptible attack` [[pdf](https://arxiv.org/pdf/2106.09898.pdf)] [[code](https://github.com/nickboucher/imperceptible)] - [x]
+2. **Bad Characters: Imperceptible NLP Attacks**. IEEE S&P 2022. `Use unicode to conduct human imperceptible attack` [[pdf](https://arxiv.org/pdf/2106.09898.pdf)] [[code](https://github.com/nickboucher/imperceptible)] :heavy_check_mark:
 
 3. **Order-Disorder: Imitation Adversarial Attacks for Black-box Neural Ranking Models**. ACM CCS 2022. `Attack Neural Ranking Models` [[pdf](https://arxiv.org/pdf/2209.06506.pdf)]
 
