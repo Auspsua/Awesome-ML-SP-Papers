@@ -634,7 +634,7 @@ A curated list of Meachine learning Security & Privacy papers published in secur
 
 #### 1.7.1 Security Analysis
 
-1. **On the Security Risks of AutoML**. USENIX Security 2022. `Adversarial evasion. Model poisoning. Backdoor. Functionality stealing. Membership Inference` [[pdf](https://www.usenix.org/system/files/sec22summer_pang.pdf)]
+1. **On the Security Risks of AutoML**. USENIX Security 2022. `Adversarial evasion. Model poisoning. Backdoor. Functionality stealing. Membership Inference` [[pdf](https://www.usenix.org/system/files/sec22summer_pang.pdf)] :heavy_check_mark:
 
 ### 1.8 Hardware Related Security 
 
