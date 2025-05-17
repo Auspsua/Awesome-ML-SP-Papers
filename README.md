@@ -539,7 +539,7 @@ A curated list of Meachine learning Security & Privacy papers published in secur
 
 #### 1.5.1 Loss
 
-1. **Blind Backdoors in Deep Learning Models**. USENIX Security 2021. `Loss Manipulation. Backdoor` [[pdf](https://www.cs.cornell.edu/~shmat/shmat_usenix21blind.pdf)] [[code](https://github.com/ebagdasa/backdoors101)]
+1. **Blind Backdoors in Deep Learning Models**. USENIX Security 2021. `Loss Manipulation. Backdoor` [[pdf](https://www.cs.cornell.edu/~shmat/shmat_usenix21blind.pdf)] [[code](https://github.com/ebagdasa/backdoors101)] :heavy_check_mark:
 
 2. **IvySyn: Automated Vulnerability Discovery in Deep Learning Frameworks**. USENIX Security 2023. `Automatic Bug Discovery in ML libraries` [[pdf](https://www.usenix.org/system/files/sec23fall-prepub-125-christou.pdf)]
 
