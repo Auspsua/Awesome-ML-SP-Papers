@@ -863,7 +863,8 @@ A curated list of Meachine learning Security & Privacy papers published in secur
 
 #### 2.1.5 Graph Leakage
 
-1. **Stealing Links from Graph Neural Networks**. USENIX Security 2021. `Inference Graph Link` [[pdf](https://arxiv.org/pdf/2105.12049.pdf)]
+1. **Stealing Links from Graph Neural Networks**. USENIX Security 2021. `Inference Graph Link` [[pdf](https://arxiv.org/pdf/2105.12049.pdf)] ✔️ (wrong name Honest-but-Curious Nets: Sensitive Attributes of Private Inputs
+Can Be Secretly Coded into the Classifiers’ Outputs)
 
 2. **Inference Attacks Against Graph Neural Networks**. USENIX Security 2022. `Property inference: number of nodes. Subgraph inference. Graph reconstruction` [[pdf](https://www.usenix.org/system/files/sec22summer_zhang-zhikun.pdf)] [[code](https://github.com/Zhangzhk0819/GNN-Embedding-Leaks)]
 
