@@ -559,7 +559,7 @@ A curated list of Meachine learning Security & Privacy papers published in secur
 
 3. **Decoding the Secrets of Machine Learning in Windows Malware Classification: A Deep Dive into Datasets, Features, and Model Performance**. ACM CCS 2023. `static features are better than dynamic feature in WindowsPE malware detection` [[pdf](https://arxiv.org/pdf/2307.14657.pdf)]
 
-4. **KAIROS: Practical Intrusion Detection and Investigation using Whole-system Provenance**. IEEE S&P 2024. `GNN-based intrusion detection method` [[pdf](https://arxiv.org/pdf/2308.05034.pdf)] [[code](https://github.com/ProvenanceAnalytics/kairos)]
+4. **KAIROS: Practical Intrusion Detection and Investigation using Whole-system Provenance**. IEEE S&P 2024. `GNN-based intrusion detection method` [[pdf](https://arxiv.org/pdf/2308.05034.pdf)] [[code](https://github.com/ProvenanceAnalytics/kairos)] ✔️
 
 5. **FLASH: A Comprehensive Approach to Intrusion Detection via Provenance Graph Representation Learning**. IEEE S&P 2024. `GNN-based intrusion detection method` [[pdf](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a139/1Ub23WQw20U)] [[code](https://github.com/DART-Laboratory/Flash-IDS)]
 
